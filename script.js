@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "Hey Bestie! You're the most adorable human ever! 💖";
+const greetingText = "happy birthday kuttii!!! i love you so muchh 💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
