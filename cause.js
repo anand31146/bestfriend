@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You always know how to make me laugh, even on my worst days! 😊", 
+        text: "tmro sab nakhra uthauxu😂💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
+        text: "bin baat ko aafno galti manxu 😒 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii Chillati hy mere upar isliyee, hehehe 💕", 
+        text: "kati risauxeu na risaune kura ma pni, ani pni ma chup chap sunxu😒💕", 
         emoji: "👂",
         gif: "gif1.gif"
     },
     { 
-        text: "Our inside jokes are literally the best thing ever~", 
+        text: "kina ki i love you💕(tmi sanga love garne kunai reason hunu pardaina)~", 
         emoji: "🚀",
         gif: "gif2.gif"
     }
